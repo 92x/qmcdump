@@ -4,6 +4,9 @@
 
 # macos 
 
+```
 $ cd /path/to/qmcdump-master
 $ make
 $ ./qmcdump demomusic.qmcflac outmusic.flac
+
+```
